@@ -2,7 +2,6 @@ import random
 a = int(input("Límite inferior a = "))
 b = int(input("Límite superior b = "))
 n = 10000
-i = 0
 lista_numeros = []
 while n > 0:
     lista_numeros.append(random.randint(a, b))
