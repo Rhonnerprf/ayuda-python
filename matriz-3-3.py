@@ -19,4 +19,4 @@ for i in range(dimension):
             sum = sum + float(matriz[i][j])
 
 print("Matriz =", matriz)
-print("La suma de los elementos es", sum)
+print("La suma de los elementos de la diagonal es", sum)
